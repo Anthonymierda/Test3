@@ -1,2 +1,2 @@
-BASE_URL="megacorpone.com"
+BASE_URL="megacorpone"
 AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
